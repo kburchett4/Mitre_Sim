@@ -3,7 +3,7 @@
 
 Add notes about how to use the system.
 
-- Start the application by running `python main.py`.
+- Start the application by running `python super.py (cti-ta.py: Threat Actors only module & cti-tech.py: Tools module)`.
 - Follow the prompts to explore different threat actors, tools, and techniques.
 - Use the interactive menu to navigate through various options and view detailed information.
 
