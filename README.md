@@ -10,10 +10,7 @@ Add notes about how to use the system.
 ## 🚀 Deployment <a name = "deployment"></a>
 
 Add additional notes about how to deploy this on a live system.
-
 - Ensure all prerequisites are installed on the server.
-- Clone the repository and install dependencies as described in the [Installing](#installing) section.
-- Run the application using a process manager like `pm2` or `supervisord` for reliability.
 
 ## ⛏️ Built Using <a name = "built_using"></a>
 
